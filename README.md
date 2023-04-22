@@ -14,4 +14,4 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-This is an app made by following a tutorial by Brad Traversy[https://github.com/bradtraversy].
+This is an app made by following a tutorial by [Brad Traversy](https://github.com/bradtraversy) from [Youtube](https://www.youtube.com/watch?v=Y6KDk5iyrYE&t=3882s).
